@@ -1,0 +1,160 @@
+.linking {
+    color: white !important;
+}
+.tabs {
+    background-color: rgb(187, 161, 14) !important;
+    width: 54%;
+    height: 30px;
+    display: inline;
+    margin: 3px 5px 30px 20px !important;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.navbar-brand {
+    color: white !important;
+}
+
+.navbar {
+    background-color: rgb(219, 188, 13) !important;
+    border: 2px solid white !important;
+}
+
+.progress {
+    height: 20px !important;
+}
+.nav-link {
+    color: white !important;
+}
+.btn {
+    color: white;
+    border: 3px solid white;
+}
+
+.row {
+    justify-content: space-around !important;
+}
+
+.btn-primary {
+    width: 100% !important;
+    background-color: rgb(182, 155, 3);
+}
+.btn-secondary {
+    width: 50% !important;
+    background-color: rgb(182, 155, 3);
+}
+.card {
+    margin-bottom: 30px !important;
+    box-shadow: 1px 1px 8px gray !important;
+}
+
+.container {
+    justify-content: space-around !important; 
+    margin-top: 30px !important;
+    display: flex !important;
+}
+
+.yellow_btn {
+    box-shadow: 5px 5px 10px gray !important;
+    background-color: rgb(219, 188, 13) !important;
+    justify-content: space-between !important;
+    margin: 30px !important; 
+    padding: 12px 60px 12px 60px !important;
+    height: 60px;
+}
+.heading1 {
+    font-weight: bold !important;
+    text-align: center !important;
+    margin-bottom: 30px !important;
+}
+.threeCols {
+    color: white !important;
+    text-align: center !important;
+}
+
+.heading1>.limit {
+    color: green !important;
+    font-size: smaller !important;
+}
+.plus {
+    justify-content: center !important;
+}
+.heading2,.heading3 {
+    font-weight: bold !important;
+    text-align: center !important;
+    margin: 30px !important;
+}
+.heading4 {
+    text-align: center !important;
+    margin: 10px auto 0px auto !important;
+}
+h4>b {
+    color: rgb(197, 168, 6) !important;
+}
+.card-body {
+    text-align: center !important;
+}
+
+.connectwithus {
+    border: gray !important;
+    background-color: rgb(224, 222, 222);
+    height: 120px;
+    
+}
+footer {
+    text-align: center !important;
+    color: white;
+    background-color: rgb(95, 93, 93) !important;
+    height: 50px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+.id {
+    color: white !important;
+    font-size: large;
+}
+.complainRateSuggest {
+    margin-top: 20px;
+}
+
+.last {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.row>.col {
+    width: 20px !important;
+    height: 50px !important;
+    align-items: center !important;
+}
+
+.social-icon {
+    transform: translateY(0);
+    filter:  drop-shadow(0px 0px 10px gray);
+    transition: transform .5s, box-shadow .5s;
+}
+.social-icon img {
+    border-radius: 50% !important; 
+}
+.social-icon:hover {
+    transform: translateY(-10px);
+    filter: drop-shadow(0px 5px 10px gray)    
+}
+.suggest-icon {
+    transform: translateY(0);
+    filter:  drop-shadow(0px 0px 10px gray);
+    transition: transform .5s, box-shadow .5s;
+    margin: 30px;
+    width: 40% !important; 
+}
+.suggest-icon img {
+    border-radius: 10% !important; 
+}
+
+.icon_word {
+    position: absolute;
+    left: 10px;
+    width: 150px;
+    right: 0;
+    bottom: 0px;
+    font-size: 14px;
+}  
